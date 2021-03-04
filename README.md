@@ -1,5 +1,7 @@
 # Fun with CSS
 
+This project is for experiment and implement fun layout with HTML and CSS only!!!!!
+
 ## Tasks
 
 ### 0. Sprite languages
